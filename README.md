@@ -13,4 +13,4 @@ KI-gestützter Sprint-Assistent gebaut mit n8n + Groq (Llama 3)
 - Docker
 
 ## Autor
-Dein Name – Wirtschaftsinformatik Student
+Duy – Wirtschaftsinformatik Student
